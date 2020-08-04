@@ -1,14 +1,13 @@
-package com.revature.tier1;
+package asdf;
 
 public class User {
-     public int id;
-    public String firstName;
-    public String lastName;
-    public String username;
-    public String password;
-    public String role;
-
-    		public User(int id, String firstName, String lastName, String username, String password, String role) {
+	 	public int id;
+	    public String firstName;
+	    public String lastName;
+	    public String username;
+	    public String password;
+	    public String role;
+		public User(int id, String firstName, String lastName, String username, String password, String role) {
 			super();
 			this.id = id;
 			this.firstName = firstName;
